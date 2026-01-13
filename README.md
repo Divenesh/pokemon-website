@@ -40,14 +40,6 @@ Each folder (**frontend** & **backend**) includes its own `README.md` file with 
 
 ---
 
-## ⚠️ Disclaimer
-
-✨ AI assistance was used to make the `README.md` files more readable and formatted in Markdown.
-
-Prompt: Change the README in markdown format, correct the grammer and add some emojis. Make it more interesting to read.
-
----
-
 ## 🎉 Now You’re Ready!
 
 Clone, install, run — and enjoy exploring the Pokémon world! 🧑‍💻🔥
