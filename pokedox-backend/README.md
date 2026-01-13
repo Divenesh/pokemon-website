@@ -71,11 +71,4 @@ We’ve implemented **two endpoints** for fetching Pokémon data:
 
 ---
 
-## ⚠️ Disclaimer
-
-When initializing **Laravel**, it came with default frontend files.
-To simplify, I cleaned them up with the help of **GitHub Copilot** and made the setup **minimalistic**.
-
----
-
 ✨ That’s it! Your backend is now clean, secure, and optimized to power the Pokédex frontend. 🐾🔥
