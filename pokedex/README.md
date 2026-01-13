@@ -63,11 +63,6 @@ We’ve implemented **two API functions** for fetching Pokémon data:
 7. 📝 Defined TypeScript interfaces for structured data
 8. 🧹 Clean and refactored codebase
 
-
-## ⚠️ Disclaimer
-
-No AI was used in building the **frontend code**. All references are from **past projects** and **official documentation**.
-
 ---
 
 ✨ That’s it! Enjoy catching ‘em all with a smooth, optimized, and well-tested frontend! 🐾🔥
